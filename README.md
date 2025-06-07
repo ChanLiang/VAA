@@ -8,7 +8,7 @@ Vulnerability-Aware Alignment: Mitigating Uneven Forgetting in Harmful Fine-Tuni
 <a href="https://icml.cc"><img src="https://img.shields.io/badge/Pub-ICML'25-blue" alt="ICML 2025 Publication" alt="Conf"></a> 
 </p>
 
-Implementation for our ICML 2025 paper [Vulnerability-Aware Alignment: Mitigating Uneven Forgetting in Harmful Fine-Tuning](https://arxiv.org/abs/2506.03850). 
+Implementation for our ICML 2025 paper **[Vulnerability-Aware Alignment: Mitigating Uneven Forgetting in Harmful Fine-Tuning](https://arxiv.org/abs/2506.03850)**. 
 
 **VAA** is a safety alignment method that upweights and reinforces vulnerable data to enhance safety retention during customized fine-tuning.
 
