@@ -1,5 +1,7 @@
 <h1 align='center'>
-Vulnerability-Aware Alignment: Mitigating Uneven Forgetting in Harmful Fine-Tuning
+Vulnerability-Aware Alignment: 
+  
+  Mitigating Uneven Forgetting in Harmful Fine-Tuning
 </h1>
 
 <p align='center'>
